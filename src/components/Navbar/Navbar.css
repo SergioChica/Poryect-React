@@ -6,7 +6,7 @@ ul{
 li {
   font-size: 18px;
   list-style: none;
-  background: #9f9f9f;
+  background: #000000;
   border-radius: 6px;
   width: 70px;
   height: 30px;
@@ -14,7 +14,12 @@ li {
   display: flex;
   justify-content: center;
 }
+a {
+  font-weight: 500;
+  color: #ff0000;
+  text-decoration: inherit;
+}
 
-a{
-  color: rgb(8, 243, 8);
+a:hover{
+  color: white;
 }

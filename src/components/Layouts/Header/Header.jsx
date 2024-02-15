@@ -3,6 +3,10 @@ import "./Header.css"
 
 export const Header = ({children}) => {
   return (
-    <header>{ children }</header>
+    <header>
+      <section>
+        { children }
+      </section>
+    </header>
   )
 }

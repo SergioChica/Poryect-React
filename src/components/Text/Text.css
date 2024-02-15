@@ -1,4 +1,5 @@
-p{
+.textHeader{
+  font-family: "Black Ops One", system-ui;
   color: black;
   font-size: 18px;
 }
