@@ -8,16 +8,19 @@ li {
   list-style: none;
   background: #000000;
   border-radius: 6px;
-  width: 70px;
+  width: auto;
+  min-width: 70px;
   height: 30px;
   align-items: center;
   display: flex;
   justify-content: center;
 }
+
 a {
   font-weight: 500;
   color: #ff0000;
   text-decoration: inherit;
+  margin: 0px 5px;
 }
 
 a:hover{

@@ -15,14 +15,7 @@ import { PictureProfile } from '../../PictureProfile/PictureProfile';
 export const Home = () => {
   return (
     <>
-    <Header>
-      <Logo />
-      <Text content="Rainbow six" />
-      <Navbar>
-        <Items content="Play" />
-        <Items content="About" />
-      </Navbar>
-    </Header>
+
     <Main>
       <PictureProfile />
       <DescriptionProfile />  
