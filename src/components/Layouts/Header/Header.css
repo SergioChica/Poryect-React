@@ -2,18 +2,3 @@
   margin: 0;
   padding: 0;
 }
-
-header {
-  display: flex;
-  justify-content: center;
-  /* height: 90%; */
-}
-
-header > section {
-  width: 65%;
-  height: 110px;
-  background-color: rgb(237 237 237);
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-}
